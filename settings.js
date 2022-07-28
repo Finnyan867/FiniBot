@@ -19,32 +19,32 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['91**********']
-global.premium = ['91**********']
-global.ownernomer = '91**********'
-global.ownername = '𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
-global.botname = '𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻 𝑺𝑬𝑹 𝑩𝑶𝑻'
-global.footer = '©sᴇʀᴅᴏᴍɪɴᴀᴛᴏʀ'
-global.ig = 'https://github.com/dominator454'
-global.region = 'India, South India, Kerala'
-global.sc = 'https://github.com/dominator454/Gojo-Satoru'
-global.myweb = 'https://youtube.com/channel/UCuYd8PWkU5QDCExj-ku8bGQ'
-global.packname = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑻'
-global.author = '𝑰𝑻𝒁 𝑴𝑬 𝑺𝑶𝑼𝑳 𝑫𝑶𝑴𝑰𝑵𝑨𝑻𝑶𝑹'
+global.owner = ['6281267259233']
+global.premium = ['6281267259233']
+global.ownernomer = '6281267259233'
+global.ownername = 'Number1'
+global.botname = 'FiniBot'
+global.footer = '©By Finnyan'
+global.ig = 'https://www.tiktok.com/@republicoffini?_t=8UMD8A1fUUz&_r=1'
+global.region = 'Indonesia, West Indonesia, Tanjung Pinang'
+global.sc = 'https://github.com/Finnyan867/FiniBot'
+global.myweb = 'https://youtube.com/channel/UCajXa43e7gfMaLLyadt0EUQ'
+global.packname = 'Bot By Finny'
+global.author = 'Bot Created By Finnyan'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin!',
-    botAdmin: 'Bot Must Be Admin First!',
-    owner: 'This Feature Is Only For Owner!',
-    group: 'Feature Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
-    error: 'Error! Maybe Api Key Is Expired🤔!',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
+    admin: 'This Feature Is Only For Admin! (Fitur Ini Hanya Untuk Admin)',
+    botAdmin: 'Bot Must Be Admin First! (Bot Harus Menjadi Admin Dahulu)',
+    owner: 'This Feature Is Only For Owner! (Fitur Ini Hanya Untuk Owner Saya)',
+    group: 'Feature Used Only For Groups! (Fitur Ini Hanya Untuk Di Grup)',
+    private: 'Features Used Only For Private Chat! (Fitur Ini Hanya Untuk Private Chat)',
+    bot: 'This Feature Is Only For Bot (Fitur Nya Hanya Untuk Bot Ini)',
+    wait: 'Wait A minute... (Tunggu Sebentar...)',
+    error: 'Error! Maybe Api Key Is Expired🤔! (Error! mungkin apikey nya expired?)',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours (Hadiah Mu Sudah Habis, Tunggulah 12 Jam Lagi)',
 }
     global.limitawal = {
     premium: "Infinity",
