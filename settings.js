@@ -36,15 +36,15 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
     success: 'Done ✓',
-    admin: 'This Feature Is Only For Admin! (Fitur Ini Hanya Untuk Admin)',
-    botAdmin: 'Bot Must Be Admin First! (Bot Harus Menjadi Admin Dahulu)',
-    owner: 'This Feature Is Only For Owner! (Fitur Ini Hanya Untuk Owner Saya)',
-    group: 'Feature Used Only For Groups! (Fitur Ini Hanya Untuk Di Grup)',
-    private: 'Features Used Only For Private Chat! (Fitur Ini Hanya Untuk Private Chat)',
-    bot: 'This Feature Is Only For Bot (Fitur Nya Hanya Untuk Bot Ini)',
-    wait: 'Wait A minute... (Tunggu Sebentar...)',
-    error: 'Error! Maybe Api Key Is Expired🤔! (Error! mungkin apikey nya expired?)',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours (Hadiah Mu Sudah Habis, Tunggulah 12 Jam Lagi)',
+    admin: 'This Feature Is Only For Admin!',
+    botAdmin: 'Bot Must Be Admin First! ',
+    owner: 'This Feature Is Only For Owner!',
+    group: 'Feature Used Only For Groups!',
+    private: 'Features Used Only For Private Chat!',
+    bot: 'This Feature Is Only For Bot',
+    wait: 'Wait A minute...',
+    error: 'Error! Maybe Api Key Is Expired🤔!',
+    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
     global.limitawal = {
     premium: "Infinity",
