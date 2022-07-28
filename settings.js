@@ -22,7 +22,7 @@ global.APIKeys = {
 global.owner = ['6281267259233']
 global.premium = ['6281267259233']
 global.ownernomer = '6281267259233'
-global.ownername = 'Number1'
+global.ownername = 'Finny'
 global.botname = 'FiniBot'
 global.footer = '©By Finnyan'
 global.ig = 'https://www.tiktok.com/@republicoffini?_t=8UMD8A1fUUz&_r=1'
@@ -30,7 +30,7 @@ global.region = 'Indonesia, Kepulauan Riau, Tanjung Pinang'
 global.sc = 'https://github.com/Finnyan867/FiniBot'
 global.myweb = 'https://youtube.com/channel/UCajXa43e7gfMaLLyadt0EUQ'
 global.packname = 'Bot By Finny'
-global.author = 'Bot Created By Finnyan'
+global.author = 'Bot Created By Finny'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
